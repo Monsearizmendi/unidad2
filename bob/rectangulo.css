@@ -1,0 +1,9 @@
+.cuadrado {
+    width: 700px;
+    height: 700px;
+    background: rgb(170, 250, 150);
+    position: absolute;
+    left: 350px;
+    top: 100px;
+    border-radius: 50px;
+    }
